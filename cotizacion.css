@@ -1,0 +1,53 @@
+.container{
+background-color: yellow;
+height: 650px;
+
+}
+
+.color_blanco{
+    background-color: whitesmoke;
+    height: 80px;
+}
+
+.color_negro{
+    background-color: black;
+    height: 80px;
+}
+.color_amarillo{
+    background-color:yellow;
+    height: 60px    
+}
+.color_amarillo1{
+    background-color:yellow;
+    height: 60px;
+     
+}
+.titulo{
+    background-color:yellow;
+    height: 60px;
+    text-align: center;  
+    
+
+
+}
+.color_blanco1{
+    background-color: whitesmoke;
+    height: 600px;
+}
+.color_amarillo2{
+    background-color:yellow;
+    height: 50px;
+    align-content: center;    
+}
+.color_amarillo3{
+    background-color:yellow;
+    height: 150px;
+    align-content: center;    
+}
+.imagen{
+    align-content: center;
+
+
+
+
+}
